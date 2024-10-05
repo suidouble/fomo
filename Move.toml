@@ -1,0 +1,14 @@
+[package]
+name = "FOMO"
+edition = "2024.beta"
+version = "1.0.0"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "testnet" }
+
+[addresses]
+fomo = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]
