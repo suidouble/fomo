@@ -19,7 +19,7 @@ __Maximum Reward Output:__ 194,444,000,000,000 FOMO / minute
 ### How to mine
 
 - [Web app](https://suimine.xyz/#/tokens/fomo) 
-- [CLI Miner](https://github.com/suidouble/sui_meta_miner)
+- [CLI Miner](https://gitlab.com/suidouble/sui_meta)
 
 ---
 
